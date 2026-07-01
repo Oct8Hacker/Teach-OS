@@ -33,3 +33,6 @@ FILES
   4. UNIX 
 	unx_server.c	: A simple UNIX SOCK server.
 	unx_client.c	: A simple UNIX SOCK client.
+
+  5. Some python versions
+	tcp_client.py , tcp_server.py , udp_client.py ,udp_server.py
