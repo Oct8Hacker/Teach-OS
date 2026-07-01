@@ -2,7 +2,7 @@
 
 The content here was created for an introductory course on operating systems
 I taught for the undergraduate students at IIIT Bangalore in the
-semester January to May 2022.
+semester January to May 2022. Updates made after that too.
 
 There is an attempt to use makefiles, some times in different formats to
 encourage students to think about how makefiles work.
@@ -13,3 +13,4 @@ is that students will pick up the code, modify and experiment with it.
 
 A lot can be improved and it is perhaps best left to students to figure out 
 issues and fix them :-)
+
